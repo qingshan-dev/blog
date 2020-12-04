@@ -138,6 +138,8 @@ export  $initHighlight;
 
 后缀必须改个名称: **https://cdn.jsdelivr.net/gh/qingshan-dev/blog@main/images/20201203234813.png**
 
+> 否则提示fetch @latest 失败, 网上说需要发布, release后的tag也是分支
+
 
 
 
