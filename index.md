@@ -3,7 +3,7 @@ typora-root-url: ./
 typora-copy-images-to: ./images
 ---
 
-    
+​    
 
 # 搭建方案
 
@@ -111,6 +111,12 @@ export  $initHighlight;
 一键多发: 
 
 [写博客多平台发布简书、掘金、CSDN | 码农家园 (codenong.com)](https://www.codenong.com/cs107105909/)
+
+> markdown 通过PicGo图片上传到Github
+>
+> 公共jsdelivr访问Gtihub图片: https://cdn.jsdelivr.net/gh/用户名/仓库名@分支/路径 | gitee也可以
+>
+> 掘金复制markdown后会解析图片上传到掘金自己的CDN(但是外网的图片)
 
 [onblog/BlogHelper: 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）](https://github.com/onblog/BlogHelper)
 
