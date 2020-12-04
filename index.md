@@ -114,6 +114,9 @@ export  $initHighlight;
 
 [onblog/BlogHelper: 帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）](https://github.com/onblog/BlogHelper)
 
+> 1. 还有点小问题, 存草稿后有点问题, 卡顿
+> 2. 上传图片也是基于picgo(从配置文件上看语法)
+
 
 
 
