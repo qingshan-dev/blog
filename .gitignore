@@ -1,11 +1,1 @@
-.idea/.gitignore
-.idea/blog.iml
-.idea/deployment.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
-.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_4_11_01__Default_Changelist_.xml
-.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_4_下午11_01_[Default_Changelist]/20201203234814.png
-.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_4_下午11_01_[Default_Changelist]/blogimage-20201202174247725.png
-.idea/shelf/Uncommitted_changes_before_Update_at_2020_12_4_下午11_01_[Default_Changelist]/shelved.patch
+.idea/
