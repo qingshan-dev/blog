@@ -1,6 +1,4 @@
 ---
-typora-root-url: ./
-typora-copy-images-to: ./images
 title: 博客搭建方案
 tags: 
   - 博客
@@ -41,9 +39,11 @@ Next
 
 
 
+![image-20201205232812084](index/image-20201205232812084.png)
 
 
-![image-20201205213547292](/images/image-20201205213547292.png)Next社区版本
+
+Next社区版本
 
 [theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)](https://github.com/theme-next/hexo-theme-next)
 
