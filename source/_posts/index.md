@@ -1,6 +1,6 @@
 ---
-typora-root-url: ../
-typora-copy-images-to: ../images
+typora-root-url: ./
+typora-copy-images-to: ./images
 title: 博客搭建方案
 tags: 
   - 博客
@@ -15,7 +15,7 @@ categories: '博客'
 
 [文档 | Hexo](https://hexo.io/zh-cn/docs/index.html)
 
-<img src="/images/image-20201205233933160.png" alt="image-20201205233933160" style="zoom:50%;" />
+
 
 ## 搭建
 
