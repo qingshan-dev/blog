@@ -12,3 +12,4 @@ themes/hexo-theme-next/docs
 *.iml
 yarn.lock
 package-lock.json
+public

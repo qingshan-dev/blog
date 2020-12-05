@@ -1,27 +1,44 @@
 ---
-typora-root-url: ./
-typora-copy-images-to: ./images
 title: 博客搭建方案
 tags: 
   - 博客
   - hexo
-categories: '博客'
----
-​    
+categories: '博客'  
 
-# 搭建方案
+---
+
+
+<img src="index/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;" />
+
+# 博客搭建方案
 
 ## hexo
 
 [文档 | Hexo](https://hexo.io/zh-cn/docs/index.html)
 
+```
+typora-root-url: ./
+typora-copy-images-to: ./images
+
+```
 
 
-## 搭建
+
+### 搭建
 
 [零基础搭建博客 (juejin.cn)](https://juejin.cn/post/6844904034860531720)
 
 [Vercel Zeit now自动部署Github为hexo博客加速 | 唐瑞平 (tangruiping.com)](https://www.tangruiping.com/post/zeit-github-pages-hexo-sync.html#Zeit-Github-Cloudflare-Netlify速度对比)
+
+
+
+### 问题
+
+图片相对路径问题解决: 
+
+[Hexo 引用本地图片以及引用本地任意位置图片的一点思路 | 禾七博客 (leay.net)](https://leay.net/2019/12/25/hexo/)
+
+
 
 ### 主题
 
