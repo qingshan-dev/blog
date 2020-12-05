@@ -27,7 +27,29 @@ categories: '博客'
 
 [Themes | Hexo](https://hexo.io/themes/)
 
+Next
 
+[iissnan/hexo-theme-next: Elegant theme for Hexo. (github.com)](https://github.com/iissnan/hexo-theme-next)
+
+[IIssNan's Notes](https://notes.iissnan.com/)
+
+[开始使用 - NexT 使用文档 (iissnan.com)](https://theme-next.iissnan.com/getting-started.html)
+
+[主题配置 - NexT 使用文档 (iissnan.com)](http://theme-next.iissnan.com/theme-settings.html#fonts-customization)
+
+
+
+Next社区版本
+
+[theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)](https://github.com/theme-next/hexo-theme-next)
+
+[Hexo博客搭建全攻略(二)：NexT主题配置 - 简书 (jianshu.com)](https://www.jianshu.com/p/d95cff938277)
+
+<!-- more -->
+
+[theme-next/awesome-next: 主题/插件](https://github.com/theme-next/awesome-next#live-preview)
+
+[NexT - Theme for Hexo (theme-next.js.org)](https://theme-next.js.org/)
 
 
 
@@ -51,18 +73,6 @@ simpleblock
 
 
 
-Next
-
-[iissnan/hexo-theme-next: Elegant theme for Hexo. (github.com)](https://github.com/iissnan/hexo-theme-next)
-
-[IIssNan's Notes](https://notes.iissnan.com/)
-
-[主题配置 - NexT 使用文档 (iissnan.com)](http://theme-next.iissnan.com/theme-settings.html#fonts-customization)
-
-[Hexo博客搭建全攻略(二)：NexT主题配置 - 简书 (jianshu.com)](https://www.jianshu.com/p/d95cff938277)
-
-
-
 
 
 [sabrinaluo/hexo-theme-replica: Github style replication for hexo theme](https://github.com/sabrinaluo/hexo-theme-replica)
@@ -82,6 +92,8 @@ Next
 
 
 ## 掘金
+
+
 
 ```yml
 ---

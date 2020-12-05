@@ -6,7 +6,7 @@ title: 测试
 
 高级前端
 
-
+<!-- more -->
 
 ```jsx
 function $initHighlight(block, cls) {

@@ -1,2 +1,12 @@
 .idea/
 node_modules
+themes/next/.git.bak/
+themes/next/.github
+themes/next/docs
+DS_Store
+.idea/
+*.log
+*.iml
+yarn.lock
+package-lock.json
+node_modules/
