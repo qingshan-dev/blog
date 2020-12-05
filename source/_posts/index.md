@@ -37,6 +37,8 @@ Next
 
 [主题配置 - NexT 使用文档 (iissnan.com)](http://theme-next.iissnan.com/theme-settings.html#fonts-customization)
 
+![image-20201205213547292](https://cdn.jsdelivr.net/gh/qingshan-dev/blog@main/images/image-20201205213547292.png)
+
 
 
 Next社区版本
@@ -48,6 +50,14 @@ Next社区版本
 <!-- more -->
 
 [theme-next/awesome-next: 主题/插件](https://github.com/theme-next/awesome-next#live-preview)
+
+[NexT - Theme for Hexo (theme-next.js.org)](https://theme-next.js.org/)
+
+[Next升级+Mac迁移 | Sirius (siriusq.top)](https://siriusq.top/Next升级-Mac迁移.html#Darkmode)
+
+[next-theme/hexo-theme-next: 🎉 Elegant and powerful theme for Hexo. (github.com)](https://github.com/next-theme/hexo-theme-next)
+
+[Highlight (theme-next.js.org)](https://theme-next.js.org/highlight/)
 
 [NexT - Theme for Hexo (theme-next.js.org)](https://theme-next.js.org/)
 
