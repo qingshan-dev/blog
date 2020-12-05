@@ -41,7 +41,9 @@ Next
 
 
 
-Next社区版本
+
+
+![image-20201205213547292](/images/image-20201205213547292.png)Next社区版本
 
 [theme-next/hexo-theme-next: Elegant and powerful theme for Hexo. (github.com)](https://github.com/theme-next/hexo-theme-next)
 
