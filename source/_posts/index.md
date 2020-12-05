@@ -21,7 +21,7 @@ categories: '博客'
 
 [零基础搭建博客 (juejin.cn)](https://juejin.cn/post/6844904034860531720)
 
-
+[Vercel Zeit now自动部署Github为hexo博客加速 | 唐瑞平 (tangruiping.com)](https://www.tangruiping.com/post/zeit-github-pages-hexo-sync.html#Zeit-Github-Cloudflare-Netlify速度对比)
 
 ### 主题
 
