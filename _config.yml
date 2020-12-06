@@ -13,9 +13,14 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
+# url: http://localhost:4000/
 url: https://tech.panqingshan.cn/
-# url: /
 root: /
+
+# https://mfrank2016.github.io/breeze-blog/2020/05/02/hexo/hexo-start/
+# url: https://qingshan-dev.github.io/
+# root: /blog/
+
 # permalink: :year/:month/:day/:title/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -108,4 +113,6 @@ theme: hexo-theme-next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/qingshan-dev/blog.git
+  branch: hexo-docs
