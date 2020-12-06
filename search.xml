@@ -58,12 +58,12 @@
 <h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><p>图片相对路径问题解决: </p>
 <p><a href="https://leay.net/2019/12/25/hexo/">Hexo 引用本地图片以及引用本地任意位置图片的一点思路 | 禾七博客 (leay.net)</a></p>
 <p>引用附件</p>
-<p> <a href="/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
-<p><a href="/assets/1.pdf">激活图文教程说明.pdf</a> </p>
-<p><a href="/images/1.pdf">激活图文教程说明.pdf</a> </p>
-<p><a href="/uploads/1.pdf">激活图文教程说明.pdf</a> </p>
+<p> <a href="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/blog/assets/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/blog/images/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/blog/uploads/1.pdf">激活图文教程说明.pdf</a> </p>
 <p><img data-src="/assets/2.png" alt="2"><img data-src="/images/2.png" alt="2"><img data-src="/uploads/2.png" alt="2"></p>
-<img data-src="/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
+<img data-src="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
 
 
 
