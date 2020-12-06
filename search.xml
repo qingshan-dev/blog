@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2020/12/05/hello-world/</url>
+    <url>/blog/2020/12/05/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <a id="more"></a>
 
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>测试</title>
-    <url>/2020/12/06/test/</url>
+    <url>/blog/2020/12/06/test/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <a id="more"></a>
 
@@ -46,7 +46,7 @@
   </entry>
   <entry>
     <title>博客搭建方案</title>
-    <url>/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <url>/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<img data-src="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
 <a id="more"></a>
 
@@ -64,7 +64,7 @@
 <p><a href="https://leay.net/2019/12/25/hexo/">Hexo 引用本地图片以及引用本地任意位置图片的一点思路 | 禾七博客 (leay.net)</a></p>
 <p>引用附件</p>
 <p> <a href="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
-<p> <a href="/assets/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
+<p> <a href="/blog/assets/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
 <p>目录编号</p>
 <p><a href="https://github.com/theme-next/hexo-theme-next/issues/873">怎么让文中的标题自动编号 · Issue #873 · theme-next/hexo-theme-next (github.com)</a></p>
 <h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p><a href="https://hexo.io/themes/">Themes | Hexo</a></p>
