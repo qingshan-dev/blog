@@ -109,7 +109,7 @@ sidebar:
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
   # Pisces | Gemini: 240
-  #width: 300
+  # width: 300
 
   # Sidebar Display (only for Muse | Mist), available values:
   #  - post    expand on posts automatically. Default.
@@ -258,8 +258,11 @@ symbols_count_time:
   total_symbols: true
   total_time: true
 #  separated_meta: true
-  item_text_total: true
-  exclude_codeblock: false
+  # item_text_total: true
+  exclude_codeblock: true
+  awl: 2
+  wpm: 200
+  suffix: "分."
 
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
 tag_icon: true
@@ -395,7 +398,7 @@ reading_progress:
 
 # Bookmark Support
 bookmark:
-  enable: true
+  enable: false
   # Customize the color of the bookmark.
   color: "#222"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
