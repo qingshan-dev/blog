@@ -47,11 +47,10 @@
   <entry>
     <title>博客搭建方案</title>
     <url>/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<img data-src="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
+    <content><![CDATA[<h1 id="博客搭建方案"><a href="#博客搭建方案" class="headerlink" title="博客搭建方案"></a>博客搭建方案</h1><p>测试排序: 根据更新时间</p>
+<h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p><a href="https://hexo.io/zh-cn/docs/index.html">文档 | Hexo</a></p>
 <a id="more"></a>
 
-<h1 id="博客搭建方案"><a href="#博客搭建方案" class="headerlink" title="博客搭建方案"></a>博客搭建方案</h1><p>测试排序: 根据更新时间</p>
-<h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p><a href="https://hexo.io/zh-cn/docs/index.html">文档 | Hexo</a></p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">typora-root-url: .&#x2F;</span><br><span class="line">typora-copy-images-to: .&#x2F;images</span><br><span class="line"></span><br></pre></td></tr></table></figure>
 
 
@@ -64,9 +63,20 @@
 <p><a href="https://leay.net/2019/12/25/hexo/">Hexo 引用本地图片以及引用本地任意位置图片的一点思路 | 禾七博客 (leay.net)</a></p>
 <p>引用附件</p>
 <p> <a href="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
-<p> <a href="/blog/assets/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/blog/assets/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/blog/images/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/blog/uploads/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><img data-src="/assets/2.png" alt="2"><img data-src="/images/2.png" alt="2"><img data-src="/uploads/2.png" alt="2"></p>
+<img data-src="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
+
+
+
 <p>目录编号</p>
 <p><a href="https://github.com/theme-next/hexo-theme-next/issues/873">怎么让文中的标题自动编号 · Issue #873 · theme-next/hexo-theme-next (github.com)</a></p>
+<p>自动构建</p>
+<blockquote>
+<p><a href="https://vercel.com/">https://vercel.com/</a></p>
+</blockquote>
 <h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p><a href="https://hexo.io/themes/">Themes | Hexo</a></p>
 <p>Next</p>
 <p><a href="https://github.com/iissnan/hexo-theme-next">iissnan/hexo-theme-next: Elegant theme for Hexo. (github.com)</a></p>
