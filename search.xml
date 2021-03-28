@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/blog/2020/12/05/hello-world/</url>
+    <url>/2020/12/05/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <a id="more"></a>
 
@@ -22,7 +22,7 @@
   </entry>
   <entry>
     <title>测试</title>
-    <url>/blog/2020/12/06/test/</url>
+    <url>/2020/12/06/test/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <a id="more"></a>
 
@@ -42,7 +42,7 @@
   </entry>
   <entry>
     <title>博客搭建方案</title>
-    <url>/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
+    <url>/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h1 id="博客搭建方案"><a href="#博客搭建方案" class="headerlink" title="博客搭建方案"></a>博客搭建方案</h1><p>测试排序: 根据更新时间</p>
 <h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p><a href="https://hexo.io/zh-cn/docs/index.html">文档 | Hexo</a></p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">typora-root-url: .&#x2F;</span><br><span class="line">typora-copy-images-to: .&#x2F;images</span><br><span class="line"></span><br></pre></td></tr></table></figure>
@@ -58,12 +58,13 @@
 <h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><p>图片相对路径问题解决: </p>
 <p><a href="https://leay.net/2019/12/25/hexo/">Hexo 引用本地图片以及引用本地任意位置图片的一点思路 | 禾七博客 (leay.net)</a></p>
 <p>引用附件</p>
-<p> <a href="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
-<p><a href="/blog/assets/1.pdf">激活图文教程说明.pdf</a> </p>
-<p><a href="/blog/images/1.pdf">激活图文教程说明.pdf</a> </p>
-<p><a href="/blog/uploads/1.pdf">激活图文教程说明.pdf</a> </p>
-<p><img data-src="/blog/assets/2.png" alt="2"><img data-src="/blog/images/2.png" alt="2"><img data-src="/blog/uploads/2.png" alt="2"></p>
-<img data-src="/blog/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
+<p> <a href="/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/assets/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/images/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><img data-src="/assets/2.png" alt="2"><img data-src="/images/2.png" alt="2"><img data-src="/uploads/2.png" alt="2"></p>
+<img data-src="/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
+
+<img data-src="/2020/12/05/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
 
 
 
@@ -73,6 +74,15 @@
 <blockquote>
 <p><a href="https://vercel.com/">https://vercel.com/</a></p>
 </blockquote>
+<p>嵌入网页</p>
+<iframe height="500" width="500" frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=m00253deqqo" allowfullscreen="true"></iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=625381177&bvid=BV1Xt4y127zw&cid=185089615&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=one-light&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false" style="width: 875px; height: 384px; border:0; transform: scale(1); overflow:hidden;" sandbox="allow-scripts allow-same-origin"> </iframe>
+
+
+
 <h3 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h3><p><a href="https://hexo.io/themes/">Themes | Hexo</a></p>
 <p>Next</p>
 <p><a href="https://github.com/iissnan/hexo-theme-next">iissnan/hexo-theme-next: Elegant theme for Hexo. (github.com)</a></p>
@@ -140,5 +150,19 @@
         <tag>hexo</tag>
         <tag>博客</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>es</title>
+    <url>/2020/12/07/%E5%89%8D%E7%AB%AF/JS/es/</url>
+    <content><![CDATA[<p>引用附件</p>
+<p><a href="/2020/12/07/%E5%89%8D%E7%AB%AF/JS/es/%E6%BF%80%E6%B4%BB%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B%E8%AF%B4%E6%98%8E.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/assets/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><a href="/images/1.pdf">激活图文教程说明.pdf</a> </p>
+<p><img data-src="/assets/2.png" alt="2"><img data-src="/images/2.png" alt="2"><img data-src="/uploads/2.png" alt="2"></p>
+<img data-src="/2020/12/07/%E5%89%8D%E7%AB%AF/JS/es/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
+
+<img data-src="/2020/12/07/%E5%89%8D%E7%AB%AF/JS/es/image-20201205213547292.png" alt="image-20201205213547292" style="zoom:50%;">
+
+]]></content>
   </entry>
 </search>
