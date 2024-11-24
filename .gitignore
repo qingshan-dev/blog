@@ -10,5 +10,4 @@ themes/hexo-theme-next/docs
 .idea/
 *.log
 *.iml
-package-lock.json
 public
